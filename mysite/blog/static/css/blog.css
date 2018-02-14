@@ -14,12 +14,8 @@
     margin-left: 40px;
 }
 
-h1, h3, h4 {
+h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
-}
-
-h2 {
-    font-family: 'Press Start 2P', cursive;
 }
 
 .date {
@@ -46,8 +42,5 @@ h2 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #2DB377;
-}
-.post h2 a, .post h2 a:visited {
     color: #2DB377;
 }
